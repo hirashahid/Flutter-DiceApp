@@ -1,16 +1,33 @@
-# flutter_dice_appp
+<h1 align="center">Flutter-DiceApp</h1>
+<a href="#">
+  <div align="center" >
+    <img src="ss.png" width='400' height = '500'/>
+  </div>
+</a>
 
-A new Flutter project.
+## <h2 align = "center"> [Tap to see the video of this app](https://hirashahid.thecloudsoft.com/flutter-diceapp/)</h2>
 
-## Getting Started
+## What I have learnt:
+- [x] Stateful Widget
+- [x] About State Concept of the flutter
 
-This project is a starting point for a Flutter application.
+## How To Run
+```
+git clone https://github.com/hirashahid/Flutter-DiceApp
+cd Flutter-DiceApp
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Author
+You can get in touch with me on my LinkedIn Profile:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### Hira Shahid
+[![LinkedIn Link](https://img.shields.io/badge/Connect-thehirashahid-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/thehirashahid)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-hirashahid-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/hirashahid)
+
+If you liked the repo then kindly support it by giving it a star ⭐!
+
+## LICENSE
+- MIT (2021)
